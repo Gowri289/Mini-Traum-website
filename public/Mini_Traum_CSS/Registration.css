@@ -1,0 +1,22 @@
+#web_title{
+    text-align: center;
+    background-color: rgb(243, 228, 227);
+    border-bottom: 2px solid green;
+    height: 70px;
+}
+#Login_Form{
+    /* background-color: red; */
+    border: 1px solid red;
+    border-radius: 5px;
+}
+#Login_Title{
+    text-align: center;
+    font-size: 30px;
+    color: orange;
+    border-bottom: 1px solid black;
+}
+#error_msg{
+    font-size: 14px;
+    color: red;
+
+}

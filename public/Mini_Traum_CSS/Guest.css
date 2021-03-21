@@ -1,0 +1,35 @@
+#webTitle{
+    text-align: center;
+    background-color: rgb(243, 228, 227);
+    box-shadow: 0 0.3rem 1rem #d6d6d6, inset 0 -1px 0 #d9d9d9;
+}
+#userData{
+    font-size: 20px;
+    color: red;
+}
+#property_container{
+    width: 95%;
+}
+#property_display{
+    font-weight: bolder;
+    font-size: 20px;
+    background-color: rgb(255, 225, 213);
+    border-radius: 5px;
+    border: 2px solid green;
+}
+#dataContainer{
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+    border-radius: 5px;
+}
+#dataContainer img{
+    width: 90%;
+    height: 90%;
+}
+
+#searchOptions{
+    border-radius: 5px;
+    border: 1px solid rgb(88, 88, 88);
+}
+#searchOptions-row1 , #searchOptions-row2{
+    border-bottom: 1px solid black;
+}
